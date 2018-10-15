@@ -1,2 +1,2 @@
-# string-theory-synth-firmware
-Arduino firmware for StringTheory Synth
+# StringTheory Synth Firmware
+Arduino firmware for **StringTheory Synth**
